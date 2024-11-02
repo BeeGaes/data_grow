@@ -1,0 +1,12 @@
+Tugas Anda untuk modul ini adalah
+1. Sheet 1 - Membuat rangkuman dari semua materi di modul ini dan tentukan KPI yang ingin anda ukur (sesuai dengan sektor bisnis yang ingin anda masuki)
+2. Sheet 2 - Buatlah contoh sample angka yang baik seperti apa dan yang buruk seperti apa berdasarkan KPI yang anda tentukan sebagai target. Angka baik adalah angka yang mencapai target sedangkan angka baik adalah angka yang tidak mencapai target.
+3. Sheet 3 - Kemudian, buatlah line chart perbandingan target dan angka aktual supaya terlihat mana yang termasuk angka baik dan buruk
+
+note : Boleh menggunakan Exel ataupun spreadsheets.
+
+Ingat, Anda harus menyelesaikannya dan mengumpulkannya sesuai deadline pada module ini.
+
+SEMANGAT !
+
+*Jangan lupa untuk mengganti nama file sesuai dengan nama masing-masing dengan format "Nama" - Tugas Modul "X" ("Judul Modul"). Contoh -> Bagus Cahya - Tugas Modul 2 (Key Business Metrics)

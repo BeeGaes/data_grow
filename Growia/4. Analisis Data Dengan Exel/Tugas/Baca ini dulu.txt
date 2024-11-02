@@ -1,0 +1,11 @@
+Gunakanlah dataset berikut ini untuk melakukan proses implementasi analisis dengan menggunakan tools excel. Perlu diingat dalam melakukan proses analisis kamu dapat menggabungkan kombinasi pembelajaran Key Metrics Business dan Data Analysis in Excel.
+
+Case :
+PT. Tumbuh Bersama merupakan salah satu perusahaan di bidang retail yang menjual banyak sekali perlengkapan rumahan ke berbagai negara. Beberapa minggu kedepan perusahaan ini ingin mengadakan town hall untuk menginformasikan performance bisnis yang mereka miliki. Sebagai bagian dari team data, kalian diminta untuk melakukan analisis secara bebas dengan menggunakan tools microsoft excel hingga membuat visualisasi dengan menggunakan microsoft excel juga. Namun, informasi yang dimunculkan merupakan Key Metrics Business yang sudah didefine oleh para stakeholder.
+
+Kamu bisa memulainya dengan memahami dataset, membersihkannya, menggali insight, memunculkan visualisasi, hingga menyampaikan insight dan rekomendasi yang kamu dapatkan.
+
+Yuk bantu PT. Tumbuh Bersama agar semakin berkembang!
+
+Notes:
+Silakan kumpulkan tugas dalam bentuk rar/zip untuk menghindari perubahan rumus dari excel
